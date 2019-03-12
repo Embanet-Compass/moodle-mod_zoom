@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-mod_zoom",
+    "type": "moodle-mod",
+    "description": "Zoom Module",
+    "extra": {
+        "installer-name": "zoom",
+        "moodle": { "package_folder_name" : "zoom" }
+    }
+}
